@@ -1,2 +1,2 @@
-# vue-project
-this is vue my project
+# Vue
+这是一个使用vue搭建的多页面应用，可以配置在webpack中，多页面增肌问题的处理！
